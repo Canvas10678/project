@@ -1,0 +1,77 @@
+#block
+{
+    width: 600px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    padding: 50px 0;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: rgb(0, 0, 0);
+    background-color: #DCF4FF;
+}
+
+#enrol
+{
+    width: 180px;
+    text-align: left;  
+    margin: auto auto auto auto;
+    padding: 50px 0;
+    border-color: rgb(0, 0, 0);
+    background-color: #DCF4FF;
+}
+
+#titleweb
+{
+    font-size: 40px;
+}
+
+/* header */
+nav{
+    position:fixed;
+    width: 100%;
+}
+nav .image{
+    width: 100%;
+    background-color: #A6D0E4;
+    padding: 1%;
+}
+nav .image .Header-2{
+    width: 90%;
+    margin:auto;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .image .Header-2 i{
+    margin: 0 11px;
+    list-style: none;
+    font-size: 27px;
+}
+
+nav .navbar{
+    background-color: #E5F1F7;
+    padding: 0.25%;
+}
+nav .navbar .Header-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+
+
+} 
+nav .navbar .Header-1 li{
+    margin: 0 8px;
+    list-style: none;
+    
+
+} 
+nav .image img{
+    width: 25%;  
+}
+.submit{
+    text-align: center;
+}
+/*end header */
