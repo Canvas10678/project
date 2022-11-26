@@ -1,0 +1,110 @@
+/* header */
+*{
+    font-family:'Work Sans', sans-serif'Roboto';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 2rem;
+    text-decoration: none;
+}
+nav{
+    position:fixed;
+    width: 100%;
+}
+nav .image{
+    width: 100%;
+    background-color: #A6D0E4;
+    padding: 1%;
+}
+nav .image .Header-2{
+    width: 90%;
+    margin:auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+nav .image .Header-2 i{
+    margin: 0 11px;
+    list-style: none;
+    font-size: 27px;
+    margin-top:15px ;
+}
+
+nav .navbar{
+    background-color: #E5F1F7;
+    padding: 0.25%;
+}
+nav .navbar .Header-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    padding: 1%;
+    gap: 25px;
+} 
+nav .navbar .Header-1 li{
+    margin: 0 8px;
+    list-style: none;
+} 
+nav .image img{
+    width: 25%;  
+}
+.grid-container {
+  display: grid;
+
+}
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+#displayPic img{
+   width: 10%;
+}
+
+/* shop */
+.shop-content{
+    display: flex;
+    flex-wrap: wrap;    
+    gap: 2.5rem;
+}
+.product-box{
+    display: block;
+    flex-wrap: wrap;
+    width: 16%;
+    height: 73%;
+    padding-top: 5%;  
+}
+.product-img img{
+    width: 100%;
+}
+.price{
+    display: inline-flex;
+    margin-block: 5%;
+}
+.product-box span{
+    font-size: 20px;
+    margin-top: 5%;
+}
+.product-box i{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 3%;
+}
+
+.การ์ตูน{
+    padding-top: 5%;
+    padding-left: 5%;
+
+}
+.นิยาย{
+    padding-top: 5%;
+    padding-left: 5%;
+
+}
+.นิตยสาร{
+    padding-top: 15%;
+    padding-left: 5%;
+}
