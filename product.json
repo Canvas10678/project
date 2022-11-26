@@ -1,0 +1,78 @@
+{
+    "p-1": {
+        "name": "นิตยสาร Harper's BAZAAR Thailand ฉบับตุลาคม 2564 หน้าปก ลิซ่า Blackpink และ เบลล่า ราณี",
+        "price": "$20",
+        "pic": "product-pic/pic1.jpg"
+    },
+    "p-2": {
+        "name": "นิตยสาร Vogue Thailand March 2018",
+        "price": "$10",
+        "pic": "product-pic/pic2.jpg"
+    },
+    "p-3": {
+        "name": "นิตยสาร Vogue Thailand Sepember 2022",
+        "price": "$10",
+        "pic": "product-pic/pic3.jpg"
+    },
+    "p-4": {
+        "name": "นิตยสาร Vogue Thailand March 2020",
+        "price": "$10",
+        "pic": "product-pic/pic4.jpg"
+    },
+    "p-5": {
+        "name": "นิตยสาร Vogue Thailand January 2022",
+        "price": "$10",
+        "pic": "product-pic/pic5.jpg"
+    },
+    "p-6": {
+        "name": "LET’S COMIC หนังสือการ์ตูนไทย เรื่อง กบฏ ศึกษา",
+        "price": "$5",
+        "pic": "product-pic/pic6.jpg"
+    },
+    "p-7": {
+        "name": "Art Book PUCK 13th Year",
+        "price": "$15",
+        "pic": "product-pic/pic7.jpg"
+    },
+    "p-8": {
+        "name": "การเดินทางของบรรณาธิการ",
+        "price": "$7",
+        "pic": "product-pic/pic8.jpg"
+    },
+    "p-9": {
+        "name": "บางกอก 2662 by J.ILLUSTRATOR",
+        "price": "$8",
+        "pic": "product-pic/pic9.jpg"
+    },
+    "p-10": {
+        "name": "คำสารภาพของบรรณาธิการ The confession of an Editor",
+        "price": "$10",
+        "pic": "product-pic/pic10.jpg"
+    },
+    "p-11": {
+        "name": "First Moment แรกพบในนิยาย",
+        "price": "$8",
+        "pic": "product-pic/pic11.jpg"
+    },
+    "p-12": {
+        "name": "ไอ้นิยายโศกนาฏกรรมน่ารำคาญพรรคนี้นะ ข้าจะเปลี่ยนมันให้กลายเป็นนิยายรักสุดแฮปปี้เอง!",
+        "price": "$16",
+        "pic": "product-pic/pic12.jpg"
+    },
+    "p-13": {
+        "name": "นายและนายเท่านั้น",
+        "price": "$7",
+        "pic": "product-pic/pic13.jpg"
+    },
+    "p-14": {
+        "name": "บลูมารัก",
+        "price": "$8",
+        "pic": "product-pic/pic14.jpg"
+    },
+    "p-15": {
+        "name": "ไรท์ครับ รับผมเป็นแฟนหน่อย",
+        "price": "$8",
+        "pic": "product-pic/pic15.jpg"
+    }
+}
+   
