@@ -12,19 +12,19 @@
     <!-- ref: https://www.w3schools.com/icons/google_icons_image.asp -->
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/headers/">
     <link href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css" rel="stylesheet">
+     <script type="text/javascript" ></script>
     <title>P O M BOOK Store</title>
 </head>
-
 <body>
     <nav>
         <div class="image">
             <header class="Header-2">
                 <a href="index.html"><img src="pic/logo.png" /></a>
-                
-               
-                <a href="Profile.html"><i id="user"class="fa fa-user-circle-o"></i></a>
-                <i id="cart-icon" class="bx bx-shopping-bag"></i>
-                <a href="/logout"><i id="logout"class="fa fa-sign-out"></i></a>
+                <div class="block-user" >
+                    <i id="user" class="fa fa-user-circle-o"> Hello<span id="username"></span></i> 
+                </div>
+                <a href="#shopcart"><i id="cart-icon" class="bx bx-shopping-bag"></i></a>
+              <a href="/logout"><i id="logout"class="fa fa-sign-out"></i></a>   
 
             </header>
         </div>
@@ -39,12 +39,14 @@
             </header>
         </div>
     </nav>
+
     <div class="block" id="block"></div>
     <div class="HideAndShow" id="HideAndShow">
         <div class="หน้าแรก" id="หน้าแรก"></div>
         <section class="นิตยสาร" id="นิตยสาร">
             <h2 class="section-title">นิตยสาร</h2>
             <div class="shop-content">
+                
                 <!-- p01 -->
                 <div class="product-box">
                     <div class="product-img"></div>
@@ -168,7 +170,7 @@
             <hr>
         </section>
     </div>
-
+ 
     <div id="popup" class="popup">
         <div id="cart" class="cart">
             <h2 class="cart-title">Your Cart</h2>
